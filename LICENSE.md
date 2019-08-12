@@ -1,0 +1,3 @@
+# LICENSE File
+
+GNU LICENSE 2.1.0.002
